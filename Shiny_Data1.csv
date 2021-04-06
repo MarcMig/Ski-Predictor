@@ -1,0 +1,516 @@
+,child_friendly,continent,country,max_altitude,min_altitude,resort_name,season,ski_pass_price,url,beginner_slopes,intermediate_slopes,difficult_slopes,t-bar_lifts,chairlifts,gondolas,snowpark,night_skiing,snow_cannons,country_iso,altitude_diff,total_slopes,season_start,season_end
+0,True,Europe,Norway,1450.0,620.0,Hemsedal,November - May,46,https://ski-resort-stats.com/Hemsedal,29.2,10.8,4.1,15,6.0,0.0,True,True,325.0,NOR,830.0,44.1,November,May
+1,True,Europe,Norway,1178.0,800.0,Geilosiden Geilo,November - April,44,https://ski-resort-stats.com/Geilo,18.0,12.0,4.2,18,6.0,0.0,True,True,325.0,NOR,378.0,34.2,November,April
+2,True,Europe,Austria,2110.0,650.0,Golm,December - April,48,https://ski-resort-stats.com/Golm,13.0,12.0,1.5,4,4.0,3.0,False,False,123.0,AUT,1460.0,26.5,December,April
+3,True,America,Canada,2075.0,1185.0,Red Mountain Resort-Rossland,December - April,60,https://ski-resort-stats.com/Red-Mountain-Resort-Rossland,20.0,50.0,50.0,2,5.0,1.0,True,True,,CAN,890.0,120.0,December,April
+4,True,Europe,Norway,1030.0,195.0,Hafjell,November - April,45,https://ski-resort-stats.com/Hafjell,33.0,7.0,4.0,14,3.0,1.0,True,True,150.0,NOR,835.0,44.0,November,April
+5,True,Europe,Norway,960.0,284.0,Voss,November - May,43,https://ski-resort-stats.com/Voss,25.0,4.0,11.0,7,4.0,0.0,True,False,40.0,NOR,676.0,40.0,November,May
+6,False,Rest of the world,New Zealand,1980.0,1300.0,Porter,June - September,61,https://ski-resort-stats.com/Porter,5.0,0.0,5.0,5,1.0,0.0,False,False,,NZL,680.0,10.0,June,September
+7,True,America,Chile,2700.0,1600.0,Nevados de Chillán,June - October,57,https://ski-resort-stats.com/nevados-de-chillan,10.0,15.0,10.0,4,6.0,1.0,True,False,,CHL,1100.0,35.0,June,October
+8,True,Europe,Germany,1385.0,1030.0,Hochschwarzeck,December - April,22,https://ski-resort-stats.com/hochschwarzeck,4.2,0.0,0.0,3,1.0,0.0,False,False,,DEU,355.0,4.2,December,April
+9,True,Europe,Germany,1554.0,1300.0,Rossfeld - Berchtesgaden - Oberau,December - April,20,https://ski-resort-stats.com/rossfeld-berchtesgaden-oberau,7.0,1.0,0.0,4,0.0,0.0,True,True,,DEU,254.0,8.0,December,April
+10,True,America,Canada,2134.0,1052.0,Fernie,December - April,67,https://ski-resort-stats.com/Fernie,42.0,58.0,42.0,3,7.0,0.0,True,False,11.0,CAN,1082.0,142.0,December,April
+11,True,America,Canada,2082.0,1198.0,Sun Peaks,November - April,62,https://ski-resort-stats.com/Sun-peaks,13.5,78.0,43.5,6,6.0,0.0,True,True,,CAN,884.0,135.0,November,April
+12,True,America,Canada,2365.0,1140.0,Panorama,December - April,62,https://ski-resort-stats.com/Panorama,20.0,55.0,25.0,3,6.0,4.0,True,True,,CAN,1225.0,100.0,December,April
+13,True,Europe,Germany,1712.0,700.0,Brauneck Lenggries Wegscheid,December - April,35,https://ski-resort-stats.com/brauneck-lenggries-%E2%80%8Bwegscheid,8.0,22.0,4.0,16,4.0,1.0,False,True,,DEU,1012.0,34.0,December,April
+14,True,Europe,Switzerland,3899.0,1562.0,Zermatt - Matterhorn,Year-round,81,https://ski-resort-stats.com/zermatt-matterhorn,75.0,220.0,27.0,21,22.0,20.0,True,False,1060.0,CHE,2337.0,322.0,,
+15,False,Rest of the world,New Zealand,1960.0,1260.0,Treble Cone,June - October,68,https://ski-resort-stats.com/Treble-Cone,,,,,,,False,False,,NZL,700.0,0.0,June,October
+16,True,Europe,Italy,2518.0,1236.0,Val Gardena,December - April,54,https://ski-resort-stats.com/Val-Gardena,52.0,105.0,18.0,29,41.0,14.0,True,False,130.0,ITA,1282.0,175.0,December,April
+17,True,Europe,Italy,3275.0,1212.0,Gressoney - La-Trinite (Monterosa Ski),December - April,43,https://ski-resort-stats.com/gressoney-la-trinite-alagna-valsesia%E2%80%8Bchampoluc%E2%80%8Bfrachey-monterosa-ski,23.0,94.0,15.0,9,9.0,12.0,True,False,655.0,ITA,2063.0,132.0,December,April
+18,True,Europe,Denmark,78.0,33.0,Hedelands Skicenter,December - March,17,https://ski-resort-stats.com/hedelands-skicenter,0.4,,0.0,1,0.0,0.0,False,False,655.0,DNK,45.0,0.4,December,March
+19,True,Europe,France,2466.0,1000.0,Les Gets (Les Portes du Soleil),December - April,51,https://ski-resort-stats.com/les-gets-avoriaz%E2%80%8Bcha%CC%82tel%E2%80%8Bmorgins%E2%80%8Bchamperymorzine-les-portes-du-soleil,310.0,210.0,60.0,89,74.0,11.0,True,True,1074.0,FRA,1466.0,580.0,December,April
+20,True,Europe,France,2641.0,1176.0,Espace San Bernardo – La Rosière/La Thuile,December - April,43,https://ski-resort-stats.com/espace-san-bernardo-la-rosiere-%E2%80%8Bla-thuile,55.0,83.0,22.0,21,18.0,1.0,True,False,,FRA,1465.0,160.0,December,April
+21,False,Europe,United Kingdom,775.0,637.0,The Lecht,December - April,33,https://ski-resort-stats.com/The-Lecht,5.0,9.0,4.0,12,1.0,0.0,True,True,,GBR,138.0,18.0,December,April
+22,True,America,USA,3221.0,2103.0,Steamboat,November - April,120,https://ski-resort-stats.com/Steamboat,25.0,95.0,45.0,1,14.0,2.0,True,True,,USA,1118.0,165.0,November,April
+23,False,America,USA,2175.0,2040.0,Howelsen Hill-Steamboat Springs,November - April,21,https://ski-resort-stats.com/howelsen-hill-steamboat-springs,1.7,1.5,0.8,3,1.0,0.0,False,False,,USA,135.0,4.0,November,April
+24,True,Europe,France,2437.0,1164.0,Les Contamines-Hauteluce,December - April,39,https://ski-resort-stats.com/les-contamines-%E2%80%8Bhauteluce,40.0,60.0,20.0,12,8.0,4.0,False,True,,FRA,1273.0,120.0,December,April
+25,True,America,USA,3707.0,2774.0,Crested Butte,November - April,98,https://ski-resort-stats.com/Crested-Butte,27.0,69.0,25.0,5,10.0,0.0,True,False,,USA,933.0,121.0,November,April
+26,True,America,USA,3185.0,1924.0,Jackson Hole,December - April,119,https://ski-resort-stats.com/jackson-hole,16.0,50.0,50.0,1,9.0,3.0,True,False,,USA,1261.0,116.0,December,April
+27,True,America,USA,3049.0,2080.0,Park City,November - April,97,https://ski-resort-stats.com/Park-City,27.0,152.0,71.0,5,32.0,4.0,True,True,480.0,USA,969.0,250.0,November,April
+28,True,Europe,United Kingdom,655.0,91.0,Nevis Range,December - April,36,https://ski-resort-stats.com/Nevis-range,7.0,10.0,3.0,8,3.0,1.0,False,False,,GBR,564.0,20.0,December,April
+29,True,America,USA,3790.0,3286.0,Arapahoe Basin,October - June,83,https://ski-resort-stats.com/Arapahoe-Basin,40.0,25.0,40.0,2,5.0,0.0,True,False,,USA,504.0,105.0,October,June
+30,True,Rest of the world,New Zealand,1943.0,1586.0,The Remarkables,June - October,74,https://ski-resort-stats.com/The-Remarkables,3.0,4.0,3.0,3,4.0,0.0,True,False,,NZL,357.0,10.0,June,October
+31,True,Europe,Italy,1550.0,1082.0,Valchiavenna – Madesimo/Campodolcino,November - April,39,https://ski-resort-stats.com/valchiavenna-madesimo%E2%80%8Bcampodolcino,13.9,28.9,5.6,1,9.0,3.0,True,True,,ITA,468.0,48.4,November,April
+32,True,Europe,Italy,2641.0,1176.0,La Thuile / La Rosière - Espace San Bernardo,December - April,43,https://ski-resort-stats.com/la-thuile-la-rosiere-espace-san-bernardo,55.0,83.0,22.0,21,18.0,1.0,True,False,,ITA,1465.0,160.0,December,April
+33,True,Europe,Italy,2798.0,1816.0,Livigno – Carosello/Mottolino,November - May,46,https://ski-resort-stats.com/livigno-carosello%E2%80%8Bmottolino,30.0,65.0,20.0,25,13.0,6.0,True,True,,ITA,982.0,115.0,November,May
+34,True,Europe,Italy,2504.0,770.0,Madonna di Campiglio-Pinzolo-Folgàrida-Marilleva,November - April,50,https://ski-resort-stats.com/madonna-di-campiglio-%E2%80%8Bpinzolo-%E2%80%8Bfolgarida-%E2%80%8Bmarilleva,60.0,68.0,22.0,14,34.0,17.0,True,True,,ITA,1734.0,150.0,November,April
+35,True,Europe,Austria,1980.0,740.0,Wagrain (Ski amedé),November - April,52,https://ski-resort-stats.com/wagrain,30.0,81.0,4.0,22,16.0,11.0,True,False,600.0,AUT,1240.0,115.0,November,April
+36,True,Europe,Austria,3108.0,2180.0,Kaunertal Glacier (Kaunertaler Gletscher),September - June,43,https://ski-resort-stats.com/kaunertal-glacier-kaunertaler-gletscher,14.8,4.3,2.7,6,2.0,1.0,False,False,,AUT,928.0,21.8,September,June
+37,True,Europe,Austria,2096.0,830.0,Saalbach Hinterglemm Leogang Fieberbrunn (Skicircus),November - April,53,https://ski-resort-stats.com/Saalbach,140.0,112.0,18.0,21,22.0,28.0,True,True,927.0,AUT,1266.0,270.0,November,April
+38,True,Europe,Italy,2749.0,1372.0,Sestriere ski resort (Via Lattea),November - April,48,https://ski-resort-stats.com/sestriere-sauze-doulx%E2%80%8Bsan-sicario%E2%80%8Bclaviere%E2%80%8Bmontgenevre-via-lattea,96.0,220.0,84.0,29,35.0,7.0,False,True,,ITA,1377.0,400.0,November,April
+39,True,Europe,Austria,1280.0,670.0,Reither Kogel-Reith im Alpbachtal,December - March,46,https://ski-resort-stats.com/reither-kogel-reith-im-alpbachtal,1.0,3.0,0.0,4,0.0,1.0,False,True,,AUT,610.0,4.0,December,March
+40,True,America,Canada,2450.0,1190.0,Kicking Horse - Golden,December - April,67,https://ski-resort-stats.com/kicking-horse,20.0,20.0,60.0,1,3.0,1.0,False,False,10.0,CAN,1260.0,100.0,December,April
+41,True,Europe,Andorra,2640.0,1710.0,Grandvalira – Pas de la Casa/Grau Roig/Soldeu/El Tarter/Canillo/Encamp,November - April,47,https://ski-resort-stats.com/grandvalira-pas-de-la-casa%E2%80%8Bgrau-roig%E2%80%8Bsoldeu%E2%80%8Bel-tarter%E2%80%8Bcanillo%E2%80%8Bencamp,100.0,77.0,33.0,37,28.0,7.0,True,True,1032.0,AND,930.0,210.0,November,April
+42,True,Europe,Switzerland,2490.0,1454.0,Rinerhorn (Davos Klosters),December - March,48,https://ski-resort-stats.com/rinerhorn-davos-klosters,10.0,22.7,8.2,6,0.0,1.0,True,False,14.0,CHE,1036.0,40.900000000000006,December,March
+43,True,Europe,Switzerland,2611.0,1142.0,Madrisa (Davos Klosters),December - March,52,https://ski-resort-stats.com/madrisa-davos-klosters,6.9,9.9,9.2,7,2.0,1.0,True,False,9.0,CHE,1469.0,26.0,December,March
+44,True,Europe,Switzerland,2590.0,1540.0,Jakobshorn (Davos Klosters),December - April,58,https://ski-resort-stats.com/jakobshorn-davos-klosters,25.5,13.2,2.5,5,5.0,3.0,True,False,140.0,CHE,1050.0,41.2,December,April
+45,True,Europe,Switzerland,2483.0,1800.0,Pischa (Davos Klosters),December - April,40,https://ski-resort-stats.com/pischa-davos-klosters,25.5,13.2,2.5,0,0.0,1.0,False,False,,CHE,683.0,41.2,December,April
+46,True,Europe,Switzerland,3016.0,1343.0,Glacier 3000 / Les Diablerets,October - May,54,https://ski-resort-stats.com/glacier-3000-les-diablerets,9.7,3.2,12.1,4,3.0,3.0,True,False,,CHE,1673.0,25.0,October,May
+47,True,America,Canada,2285.0,1508.0,Big White,November - April,61,https://ski-resort-stats.com/Big-white,18.9,56.7,,3,10.0,,True,True,,CAN,777.0,75.6,November,April
+48,True,Europe,Austria,3082.0,1793.0,Obergurgl-Hochgurgl,November - May,50,https://ski-resort-stats.com/obergurgl-hochgurgl,35.0,55.0,20.0,13,7.0,8.0,True,True,320.0,AUT,1289.0,110.0,November,May
+49,True,Rest of the world,New Zealand,1649.0,1229.0,Coronet Peak,June - October,74,https://ski-resort-stats.com/coronet-peak,8.0,16.0,16.0,5,3.0,0.0,True,True,202.0,NZL,420.0,40.0,June,October
+50,True,Europe,France,3560.0,1280.0,Les Deux alpes,December - April June - August October - November,49,https://ski-resort-stats.com/les-deux-alpes,110.0,56.0,34.0,26,21.0,7.0,True,True,224.0,FRA,2280.0,200.0,December,April
+51,True,America,Chile,3670.0,2860.0,Valle Nevado,June - October,64,https://ski-resort-stats.com/valle-nevado,4.0,14.4,21.6,9,5.0,1.0,True,False,,CHL,810.0,40.0,June,October
+52,True,Rest of the world,Australia,1572.0,1460.0,Ben Lomond,July - September,47,https://ski-resort-stats.com/Ben-Lomond,,,,,,,,,,AUS,112.0,0.0,July,September
+53,True,America,Chile,3310.0,2580.0,Portillo,June - October,57,https://ski-resort-stats.com/portillo,10.0,4.0,6.0,9,5.0,0.0,False,False,,CHL,730.0,20.0,June,October
+54,True,America,Argentina,2180.0,1030.0,Catedral Alta Patagonia,June - October,51,https://ski-resort-stats.com/catedral-alta-patagonia,30.0,60.0,30.0,19,17.0,2.0,True,False,,ARG,1150.0,120.0,June,October
+55,True,America,Canada,2284.0,653.0,Whistler,November - May June - August,93,https://ski-resort-stats.com/Whistler,40.0,110.0,50.0,14,18.0,5.0,True,False,300.0,CAN,1631.0,200.0,November,May
+56,True,Europe,Austria,3212.0,1697.0,Stubai Glacier,September - June,46,https://ski-resort-stats.com/stubai-glacier,19.0,15.0,4.0,14,7.0,5.0,True,False,69.0,AUT,1515.0,38.0,September,June
+57,True,Europe,Norway,1460.0,1200.0,Fonna Glacier,May - September,42,https://ski-resort-stats.com/Fonna-Glacier,2.5,2.5,0.0,1,0.0,0.0,True,False,,NOR,260.0,5.0,May,September
+58,True,Europe,France,3456.0,1550.0,Tignes - Val d'Isère,November - May June - August,56,https://ski-resort-stats.com/tignes-%E2%80%8Bval-disere,170.0,78.0,52.0,33,42.0,11.0,True,False,848.0,FRA,1906.0,300.0,November,May
+59,True,Europe,France,3167.0,1207.0,La Plagne (Paradiski),December - April,50,https://ski-resort-stats.com/la-plagne-paradiski,139.0,57.0,27.0,56,32.0,12.0,True,False,417.0,FRA,1960.0,223.0,December,April
+60,True,Europe,France,2720.0,1550.0,Les Orres,December - April,35,https://ski-resort-stats.com/Les-Orres,30.0,60.0,10.0,11,9.0,0.0,True,False,190.0,FRA,1170.0,100.0,December,April
+61,True,Europe,France,2069.0,1000.0,Espace Diamant-Les Saisies/Notre-Dame-de-Bellecombe/Praz sur Arly/Flumet/Crest-Voland,December - April,40,https://ski-resort-stats.com/espace-diamant-les-saisies%E2%80%8Bnotre-dame-de-bellecombe%E2%80%8Bpraz-sur-arly%E2%80%8Bflumet%E2%80%8Bcrest-voland,132.0,49.0,11.0,53,30.0,0.0,True,True,472.0,FRA,1069.0,192.0,December,April
+62,True,Europe,France,2466.0,1000.0,Avoriaz (Les Portes du Soleil),December - April,51,https://ski-resort-stats.com/avoriaz-les-gets%E2%80%8Bcha%CC%82tel%E2%80%8Bmorgins%E2%80%8Bchamperymorzine-les-portes-du-soleil,310.0,210.0,60.0,89,74.0,11.0,True,True,1074.0,FRA,1466.0,580.0,December,April
+63,True,Europe,France,2466.0,1000.0,Châtel (Les Portes du Soleil),December - April,51,https://ski-resort-stats.com/cha%CC%82tel-avoriaz%E2%80%8Bles-gets%E2%80%8Bmorgins%E2%80%8Bchamperymorzine-les-portes-du-soleil,310.0,210.0,60.0,89,74.0,11.0,True,True,1074.0,FRA,1466.0,580.0,December,April
+64,True,Europe,France,1360.0,932.0,Le Lys - Cauterets,November - April,37,https://ski-resort-stats.com/le-lys-cauterets,21.0,12.0,3.0,6,4.0,1.0,True,False,,FRA,428.0,36.0,November,April
+65,True,Europe,France,1756.0,1516.0,Pont d'Espagne - Cauterets,November - April,35,https://ski-resort-stats.com/pont-despagne-cauterets,3.0,1.0,0.0,2,1.0,1.0,False,False,,FRA,240.0,4.0,November,April
+66,True,Europe,France,3534.0,1470.0,La Grave - La Meije,December - April,49,https://ski-resort-stats.com/la-grave-la-meije,3.0,0.0,0.0,1,0.0,2.0,False,False,,FRA,2064.0,3.0,December,April
+67,True,Europe,France,3230.0,1110.0,Courchevel (Les 3 Vallées),November - May,61,https://ski-resort-stats.com/courchevel-val-thorens-%E2%80%8Bles-menuires-%E2%80%8Bmeribel-les-3-vallees,,,,,,,,,,FRA,2120.0,0.0,November,May
+68,True,Europe,France,3230.0,1110.0,Saint Martin de Belleville (Les 3 Vallées),November - May,61,https://ski-resort-stats.com/saint-martin-de-belleville-val-thorens-%E2%80%8Bles-menuires-%E2%80%8Bmeribel-les-3-vallees,312.0,216.0,72.0,62,63.0,40.0,True,True,2383.0,FRA,2120.0,600.0,November,May
+69,True,Europe,France,3330.0,1125.0,Alpe d'Huez,December - April,51,https://ski-resort-stats.com/alpe-dhuez,70.0,130.0,50.0,27,21.0,20.0,True,True,963.0,FRA,2205.0,250.0,December,April
+70,True,Europe,France,3230.0,1110.0,La Tania-Val Thorens/Les Menuires/Méribel (Les 3 Vallées),November - May,61,https://ski-resort-stats.com/la-tania-val-thorens%E2%80%8Bles-menuires%E2%80%8Bmeribel-les-3-vallees,312.0,216.0,72.0,62,63.0,40.0,True,True,2383.0,FRA,2120.0,600.0,November,May
+71,True,Europe,France,2620.0,1550.0,Sainte-Foy-Tarentaise,December - April,31,https://ski-resort-stats.com/sainte-foy-tarentaise,10.0,25.0,6.0,2,4.0,0.0,False,False,10.0,FRA,1070.0,41.0,December,April
+72,True,Europe,France,3226.0,1200.0,Les Arcs / Peisey-Vallandry (Paradiski),December - April,50,https://ski-resort-stats.com/les-arcs-%E2%80%8B-peisey-vallandry-paradiski,104.0,70.0,26.0,17,27.0,8.0,True,True,793.0,FRA,2026.0,200.0,December,April
+73,True,Europe,France,2749.0,1372.0,Montgenèvre (Via Lattea),November - April,48,https://ski-resort-stats.com/montgenevre-sauze-doulx%E2%80%8Bsan-sicario%E2%80%8Bclaviere%E2%80%8Bsestriere-via-lattea,,,,,,,False,False,,FRA,1377.0,0.0,November,April
+74,True,Europe,France,3000.0,1850.0,Bonneval sur Arc,December - April,28,https://ski-resort-stats.com/bonneval-sur-arc,13.0,11.0,1.0,8,3.0,0.0,False,False,,FRA,1150.0,25.0,December,April
+75,True,Europe,France,3230.0,1110.0,Val Thorens (Les 3 Vallées),November - May,61,https://ski-resort-stats.com/val-thorens,312.0,216.0,72.0,62,63.0,40.0,True,True,2383.0,FRA,2120.0,600.0,November,May
+76,True,Europe,France,2800.0,1200.0,Serre Chevalier-Briançon/Chantemerle/Villeneuve-la-Salle/Le Monêtier-les-Bains,December - April,49,https://ski-resort-stats.com/serre-chevalier-brianc%CC%A7on%E2%80%8Bchantemerle%E2%80%8Bvilleneuve-la-salle%E2%80%8Ble-mone%CC%82tier-les-bains,138.0,80.0,32.5,33,21.0,7.0,True,True,575.0,FRA,1600.0,250.5,December,April
+77,True,Europe,Switzerland,2320.0,944.0,Kleine Scheidegg / Männlichen-Grindelwald / Wengen,November - April,55,https://ski-resort-stats.com/kleine-scheidegg-%E2%80%8Bma%CC%88nnlichen-grindelwald-%E2%80%8Bwengen,,,,,,,,,,CHE,1376.0,0.0,November,April
+78,True,Europe,France,2270.0,1453.0,Balme-Les Autannes-Vallorcine-Le Tour,December - April,51,https://ski-resort-stats.com/Balme/%E2%80%8BLes%20Autannes-Vallorcine/%E2%80%8BLe%20Tour,,,,,,,,,,FRA,817.0,0.0,December,April
+79,True,Europe,France,3275.0,1252.0,Grands Montets-Argentière (Chamonix),December - May,62,https://ski-resort-stats.com/grands-montets-argentiere-chamonix,6.0,9.0,14.0,1,4.0,4.0,True,False,,FRA,2023.0,29.0,December,May
+80,True,America,USA,3676.0,2743.0,Winter Park Resort,November - April,119,https://ski-resort-stats.com/winter-park-resort,11.0,53.0,79.0,5,19.0,1.0,True,False,36.0,USA,933.0,143.0,November,April
+81,True,Europe,Andorra,2625.0,1940.0,Arcalís-Ordino (Vallnord),November - April,37,https://ski-resort-stats.com/arcalis-ordino-vallnord,13.0,14.0,3.0,10,4.0,1.0,True,False,106.0,AND,685.0,30.0,November,April
+82,True,Europe,Finland,492.0,291.0,Ruka,October - June,43,https://ski-resort-stats.com/Ruka,9.1,7.0,2.8,17,5.0,0.0,True,True,70.0,FIN,201.0,18.900000000000002,October,June
+83,True,Europe,Finland,531.0,206.0,Levi,November - May,43,https://ski-resort-stats.com/Levi,15.7,19.4,,25,2.0,,True,True,,FIN,325.0,35.099999999999994,November,May
+84,True,Rest of the world,Japan,1200.0,300.0,Niseko,November - May,57,https://ski-resort-stats.com/Niseko,20.3,16.1,8.0,1,26.0,5.0,True,True,,JPN,900.0,44.400000000000006,November,May
+85,True,Europe,Slovenia,1215.0,800.0,Kranjska Gora,December - April,33,https://ski-resort-stats.com/kranjska-gora,10.0,8.0,2.0,15,5.0,0.0,True,True,,SVN,415.0,20.0,December,April
+86,True,Europe,Andorra,2640.0,1710.0,El Tarter – Pas de la Casa/Grau Roig/Soldeu/Canillo/Encamp (Grandvalira),November - April,47,https://ski-resort-stats.com/el-tarter-pas-de-la-casa%E2%80%8Bgrau-roig%E2%80%8Bsoldeu%E2%80%8Bcanillo%E2%80%8Bencamp-grandvalira,100.0,77.0,33.0,37,28.0,7.0,True,True,1032.0,AND,930.0,210.0,November,April
+87,True,Europe,Bulgaria,2560.0,990.0,Bansko,December - April,30,https://ski-resort-stats.com/Bansko,20.0,24.5,3.7,7,8.0,2.0,True,True,380.0,BGR,1570.0,48.2,December,April
+88,True,America,USA,3215.0,2600.0,Alta,November - April,82,https://ski-resort-stats.com/Alta,29.0,46.39,40.6,3,7.0,0.0,False,True,,USA,615.0,115.99000000000001,November,April
+89,True,America,USA,3418.0,2422.0,Aspen Mountain,November - April,124,https://ski-resort-stats.com/Aspen-Mountain,0.0,49.0,54.0,0,7.0,1.0,False,False,,USA,996.0,103.0,November,April
+90,True,America,USA,3559.0,2451.0,Aspen Highlands,December - April,124,https://ski-resort-stats.com/Aspen-Highlands,24.3,40.5,70.2,0,5.0,0.0,False,False,,USA,1108.0,135.0,December,April
+91,True,America,USA,2760.0,1890.0,Squaw Valley,November - April,102,https://ski-resort-stats.com/Squaw-valley,25.0,45.0,30.0,6,21.0,2.0,True,True,,USA,870.0,100.0,November,April
+92,True,America,USA,3433.0,2457.0,Vail,November - April,127,https://ski-resort-stats.com/Vail,57.0,84.0,93.0,9,20.0,2.0,True,False,,USA,976.0,234.0,November,April
+93,True,Europe,Austria,3029.0,1978.0,Kitzsteinhorn - Kaprun,depending on snow conditions - July,50,https://ski-resort-stats.com/kitzsteinhorn-kaprun,13.0,25.0,3.0,5,5.0,7.0,True,False,105.0,AUT,1051.0,41.0,depending on snow conditions,July
+94,True,America,USA,2850.0,1950.0,Snowbasin,November - April,85,https://ski-resort-stats.com/Snowbasin,5.0,28.0,15.0,2,6.0,3.0,True,False,400.0,USA,900.0,48.0,November,April
+95,True,America,USA,3488.0,2255.0,Beaver Creek,November - April,141,https://ski-resort-stats.com/Beaver-creek,28.5,64.5,57.0,8,13.0,3.0,True,False,,USA,1233.0,150.0,November,April
+96,True,Europe,United Kingdom,1070.0,360.0,Glencoe Mountain,December - April,35,https://ski-resort-stats.com/Glencoe-mountain,7.0,10.0,7.3,6,2.0,0.0,False,False,,GBR,710.0,24.3,December,April
+97,True,Europe,Austria,3340.0,1350.0,Sölden,September - May,53,https://ski-resort-stats.com/solden,70.2,44.6,29.4,12,16.0,8.0,True,True,363.0,AUT,1990.0,144.20000000000002,September,May
+98,True,Europe,Austria,2520.0,1938.0,Kuühtai,November - April,37,https://ski-resort-stats.com/ku%CC%88htai,6.0,26.2,8.8,6,5.0,1.0,True,True,80.0,AUT,582.0,41.0,November,April
+99,True,America,USA,3914.0,2926.0,Breckenridge,November - April,140,https://ski-resort-stats.com/Breckenridge,28.0,60.0,65.0,15,18.0,1.0,True,False,,USA,988.0,153.0,November,April
+100,True,Europe,Austria,2313.0,1630.0,Obertauern,November - May,46,https://ski-resort-stats.com/Obertauern,61.0,35.0,4.0,11,18.0,2.0,True,True,280.0,AUT,683.0,100.0,November,May
+101,True,Europe,Austria,2080.0,981.0,Elfer Neustift,December - March,29,https://ski-resort-stats.com/Elfer-Neustift,0.0,7.0,0.0,3,0.0,1.0,False,False,,AUT,1099.0,7.0,December,March
+102,True,Europe,Austria,2820.0,1200.0,Serfaus-Fiss-Ladis,December - April,49,https://ski-resort-stats.com/Serfaus-Fiss-Ladis,47.0,123.0,28.0,40,16.0,12.0,True,True,1250.0,AUT,1620.0,198.0,December,April
+103,True,Europe,Austria,1900.0,800.0,Hochkönig-Maria Alm/Dienten/Mühlbach,December - April,52,https://ski-resort-stats.com/hochko%CC%88nig-maria-alm%E2%80%8Bdienten%E2%80%8Bmu%CC%88hlbach,52.0,41.0,19.0,21,9.0,5.0,True,True,520.0,AUT,1100.0,112.0,December,April
+104,True,Europe,Austria,2500.0,630.0,Mayrhofen-Penken/Ahorn/Rastkogel/Eggalm,December - April,52,https://ski-resort-stats.com/mayrhofen-penken%E2%80%8Bahorn%E2%80%8Brastkogel%E2%80%8Beggalm,40.0,66.0,30.0,31,17.0,9.0,True,False,286.0,AUT,1870.0,136.0,December,April
+105,True,Europe,Austria,2811.0,1270.0,St. Anton (Ski Arlberg),December - April,53,https://ski-resort-stats.com/st-anton,130.0,123.0,51.0,53,45.0,15.0,True,False,747.0,AUT,1541.0,304.0,December,April
+106,True,Europe,Austria,2340.0,1580.0,Axamer Lizum,November - April,38,https://ski-resort-stats.com/axamer-lizum,7.0,21.0,2.0,3,6.0,1.0,True,False,,AUT,760.0,30.0,November,April
+107,True,Europe,Austria,1980.0,740.0,Flachau (Ski amedé),November - April,52,https://ski-resort-stats.com/flachau,,,,,,,False,False,,AUT,1240.0,0.0,November,April
+108,True,Europe,Austria,2025.0,830.0,Ski Juwel Alpbachtal Wildschönau,December - April,46,https://ski-resort-stats.com/ski-juwel-alpbachtal-wildscho%CC%88nau,,,,,,,False,False,,AUT,1195.0,0.0,December,April
+109,True,Europe,Austria,2872.0,1377.0,Ischgl,November - May,52,https://ski-resort-stats.com/Ischgl,47.0,142.0,49.0,13,25.0,7.0,True,False,1200.0,AUT,1495.0,238.0,November,May
+110,True,Europe,Austria,2300.0,860.0,Bad Gastein,November - April,52,https://ski-resort-stats.com/bad-gastein,30.6,52.8,2.6,10,9.0,7.0,True,False,800.0,AUT,1440.0,86.0,November,April
+111,True,Europe,Austria,2300.0,1423.0,Gargellen,December - April,47,https://ski-resort-stats.com/Gargellen,20.8,5.3,2.0,5,3.0,1.0,True,False,83.0,AUT,877.0,28.1,December,April
+112,True,Europe,Austria,2811.0,1270.0,Lech (Ski Arlberg),December - April,53,https://ski-resort-stats.com/Lech,,,,,,,,,,AUT,1541.0,0.0,December,April
+113,True,Europe,Austria,2000.0,800.0,Kitzbühel / Kirchberg (KitzSki),October - April,55,https://ski-resort-stats.com/kitzbuhel-kirchberg-kitzski,101.0,61.0,17.0,15,28.0,11.0,True,True,1102.0,AUT,1200.0,179.0,October,April
+114,True,Europe,Austria,2300.0,1600.0,Galtür,December - April,40,https://ski-resort-stats.com/galtu%CC%88r,,,,,,,,,,AUT,700.0,0.0,December,April
+115,True,Europe,Austria,2096.0,830.0,Fieberbrunn - Saalbach Hinterglemm Leogang (Skicircus),November - April,53,https://ski-resort-stats.com/fieberbrunn-saalbach-hinterglemm-leogang-skicircus,140.0,112.0,18.0,21,22.0,28.0,True,True,927.0,AUT,1266.0,270.0,November,April
+116,True,Europe,Austria,2015.0,745.0,Schladming (4-Berge-Skischauke),depending on snow conditions - April,52,https://ski-resort-stats.com/schladming-4-berge-skischauke,46.1,68.3,8.3,16,20.0,10.0,True,True,600.0,AUT,1270.0,122.7,depending on snow conditions,April
+117,True,Europe,Austria,1957.0,620.0,Ellmau (SkiWelt Wilder Kaiser-Brixental),December - April,49,https://ski-resort-stats.com/ellmau-skiwelt-wilder-kaiser-brixental,122.0,129.0,33.0,54,35.0,16.0,True,True,1700.0,AUT,1337.0,284.0,December,April
+118,True,Europe,Austria,2188.0,1000.0,Zauchensee,depending on snow conditions - April,52,https://ski-resort-stats.com/Zauchensee,23.5,16.2,4.3,9,6.0,4.0,True,False,113.0,AUT,1188.0,44.0,depending on snow conditions,April
+119,True,Europe,Austria,1957.0,620.0,Westendorf (SkiWelt Wilder Kaiser-Brixental),December - April,49,https://ski-resort-stats.com/westendorf-skiwelt-wilder-kaiser-brixental,122.0,129.0,33.0,54,35.0,16.0,True,True,1700.0,AUT,1337.0,284.0,December,April
+120,True,Europe,Austria,2430.0,700.0,Silvretta Montafon,November - April,53,https://ski-resort-stats.com/Silvretta-montafon,60.0,45.0,8.0,25,18.0,10.0,True,False,330.0,AUT,1730.0,113.0,November,April
+121,True,Europe,Austria,2811.0,1270.0,Zürs (Ski Arlberg),December - April,53,https://ski-resort-stats.com/zu%CC%88rs,130.0,123.0,51.0,53,45.0,15.0,True,False,747.0,AUT,1541.0,304.0,December,April
+122,True,Europe,Austria,1957.0,620.0,Söll (SkiWelt Wilder Kaiser-Brixental),December - April,49,https://ski-resort-stats.com/soll-skiwelt-wilder-kaiser-brixental,122.0,129.0,33.0,54,35.0,16.0,True,True,1700.0,AUT,1337.0,284.0,December,April
+123,True,Europe,Austria,1604.0,659.0,St. Johann in Tirol,December - April,44,https://ski-resort-stats.com/st-johann-tirol,16.0,23.5,3.5,12,4.0,4.0,False,True,260.0,AUT,945.0,43.0,December,April
+124,True,Europe,Austria,2811.0,1270.0,St. Christoph (Ski Arlberg),December - April,53,https://ski-resort-stats.com/st-christoph,130.0,123.0,51.0,53,45.0,15.0,True,False,747.0,AUT,1541.0,304.0,December,April
+125,True,Europe,Italy,2755.0,1205.0,Courmayeur / Chécrouit - Val Veny,depending on snow conditions - depending on snow conditions,46,https://ski-resort-stats.com/Courmayeur,16.0,21.0,4.0,4,8.0,6.0,True,False,280.0,ITA,1550.0,41.0,depending on snow conditions,depending on snow conditions
+126,True,Europe,Spain,3282.0,2100.0,Sierra Nevada-Pradollano,November - May,47,https://ski-resort-stats.com/sierra-nevada-pradollano,50.0,49.0,7.79,5,14.0,2.0,True,True,350.0,ESP,1182.0,106.79,November,May
+127,True,Europe,Italy,2924.0,1224.0,Cortina d'Ampezzo,November - April,52,https://ski-resort-stats.com/cortina-dampezzo,45.0,55.0,20.0,8,26.0,6.0,True,False,130.0,ITA,1700.0,120.0,November,April
+128,True,Europe,Italy,3212.0,2011.0,Val Senales Glacier,October - May,44,https://ski-resort-stats.com/val-senales-glacier,8.0,7.599999999999999,11.6,6,6.0,2.0,True,False,,ITA,1201.0,27.199999999999996,October,May
+129,True,Europe,Switzerland,3573.0,1800.0,Saas-Fee,July - April,63,https://ski-resort-stats.com/Saas-fee,20.0,60.0,20.0,14,2.0,9.0,True,False,102.0,CHE,1773.0,100.0,July,April
+130,True,Europe,Italy,3275.0,1212.0,Champoluc (Monterosa Ski),December - April,43,https://ski-resort-stats.com/%E2%80%8Bchampoluc-alagna-valsesia%E2%80%8Bgressoney-la-trinite%E2%80%8Bfrachey-monterosa-ski,,,,,,,,,,ITA,2063.0,0.0,December,April
+131,True,Europe,Italy,2275.0,973.0,Kronplatz (Plan de Corones),November - April,54,https://ski-resort-stats.com/kronplatz-plan-de-corones,52.0,42.0,25.0,6,5.0,21.0,True,True,450.0,ITA,1302.0,119.0,November,April
+132,True,Europe,Spain,2251.0,1501.0,Formigal,November - April,44,https://ski-resort-stats.com/formigal,47.0,70.0,20.0,9,11.0,0.0,True,False,440.0,ESP,750.0,137.0,November,April
+133,True,Europe,Spain,2510.0,1471.0,Baqueira / Beret,December - April,50,https://ski-resort-stats.com/baqueira-%E2%80%8Bberet,79.0,52.0,19.0,14,19.0,2.0,True,False,629.0,ESP,1039.0,150.0,December,April
+134,True,Europe,Italy,2749.0,1372.0,Sauze d’Oulx (Via Lattea),November - April,48,https://ski-resort-stats.com/sauze-doulx-montgenevre%E2%80%8Bsan-sicario%E2%80%8Bclaviere%E2%80%8Bsestriere-via-lattea,96.0,220.0,84.0,29,35.0,7.0,False,True,629.0,ITA,1377.0,400.0,November,April
+135,True,Europe,Switzerland,3899.0,1562.0,Cervinia,Year-round,81,https://ski-resort-stats.com/Cervinia,75.0,220.0,27.0,21,22.0,20.0,True,False,1060.0,CHE,2337.0,322.0,,
+136,True,Europe,Switzerland,1900.0,1275.0,Wasserngrat (Gstaad),December - March,54,https://ski-resort-stats.com/wasserngrat-gstaad,3.5,3.6,2.2,0,1.0,0.0,False,False,,CHE,625.0,9.3,December,March
+137,True,Europe,Switzerland,1941.0,1046.0,Wispile (Gstaad),December - March,54,https://ski-resort-stats.com/wispile-gstaad,3.6,3.7,1.6,3,0.0,2.0,False,True,,CHE,895.0,8.9,December,March
+138,True,Europe,Switzerland,1370.0,1227.0,Heiti - Gsteig (Gstaad),no report,54,https://ski-resort-stats.com/heiti-gsteig-gstaad,0.69,0.59,0.0,1,0.0,0.0,False,False,,CHE,143.0,1.2799999999999998,,
+139,True,Europe,Switzerland,1510.0,540.0,Crans-Montana,November - April,60,https://ski-resort-stats.com/Crans-Montana,55.0,70.0,15.0,12,6.0,5.0,True,False,,CHE,970.0,140.0,November,April
+140,True,Europe,Switzerland,2040.0,1050.0,Brunni - Engelberg,December - April,38,https://ski-resort-stats.com/brunni-engelberg,2.0,3.0,2.0,3,1.0,1.0,False,False,,CHE,990.0,7.0,December,April
+141,True,Europe,Switzerland,2865.0,1229.0,Arosa Lenzerheide,October - April,63,https://ski-resort-stats.com/arosa-lenzerheide,111.0,87.0,27.0,24,18.0,8.0,True,True,,CHE,1636.0,225.0,October,April
+142,True,Europe,Switzerland,3330.0,821.0,Verbier (4 Vallées),December - April,66,https://ski-resort-stats.com/verbier-4-vallees,107.0,202.0,103.0,39,17.0,19.0,True,True,,CHE,2509.0,412.0,December,April
+143,True,Europe,Switzerland,3057.0,1720.0,St. Moritz - Corviglia,November - April,69,https://ski-resort-stats.com/st-moritz-corviglia,42.0,79.0,34.0,11,12.0,5.0,True,False,170.0,CHE,1337.0,155.0,November,April
+144,True,Europe,France,1751.0,1245.0,Gresse en Vercors,December - March,19,https://ski-resort-stats.com/gresse-en-vercors,8.0,7.0,5.0,10,1.0,0.0,True,False,51.0,FRA,506.0,20.0,December,March
+145,True,Europe,Switzerland,3330.0,821.0,Nendaz (4 Vallées),December - April,66,https://ski-resort-stats.com/nendaz-4-vallees,107.0,202.0,103.0,39,17.0,19.0,True,True,,CHE,2509.0,412.0,December,April
+146,True,Europe,Switzerland,2120.0,1224.0,Villars - Gryon / Les Diablerets,December - April,54,https://ski-resort-stats.com/villars-%E2%80%8Bgryon-les-diablerets,51.0,45.0,4.0,20,9.0,4.0,True,False,,CHE,896.0,100.0,December,April
+147,True,Europe,Switzerland,3330.0,821.0,Thyon (4 Vallées),December - April,66,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,2509.0,0.0,December,April
+148,True,Europe,Switzerland,3330.0,821.0,Veysonnaz (4 Vallées),December - April,66,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,2509.0,0.0,December,April
+149,True,Europe,Germany,1140.0,810.0,Buchenberg-Buching-Halblech-,December - March,25,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,330.0,0.0,December,March
+150,True,Europe,Austria,1980.0,740.0,Alpendorf (Ski amedé),November - April,52,https://ski-resort-stats.com/alpendorf,14.2,111.0,111.0,6,13.0,2.0,True,True,,AUT,1240.0,236.2,November,April
+151,True,Europe,France,3230.0,1110.0,Méribel (Les 3 Vallées),November - May,61,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,2120.0,0.0,November,May
+152,True,Europe,France,3230.0,1110.0,Les Menuires (Les 3 Vallées),November - May,61,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,2120.0,0.0,November,May
+153,True,Europe,France,2620.0,1100.0,Les Sybelles-Le Corbier-La Toussuire-Les Bottières-St Colomban des Villards-St Sorlin-St Jean d’Arves,December - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1520.0,0.0,December,April
+154,True,Europe,France,2476.0,694.0,Le Grand Massif-Flaine-Les Carroz-Morillon-Samoëns-Sixt,December - April,47,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1782.0,0.0,December,April
+155,True,Europe,France,2353.0,850.0,Megève-Saint-Gervais,December - April,46,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1503.0,0.0,December,April
+156,True,America,USA,3398.0,2072.0,Big Sky Resort,November - April,110,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,1326.0,0.0,November,April
+157,True,America,USA,3813.0,2473.0,Snowmass,November - April,124,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,1340.0,0.0,November,April
+158,True,Europe,Andorra,2640.0,1710.0,Soldeu-Pas de la Casa/Grau Roig/El Tarter/Canillo/Encamp (Grandvalira),November - April,47,https://ski-resort-stats.com/beta-project,,,,,,,,,,AND,930.0,0.0,November,April
+159,True,Europe,Switzerland,3018.0,1100.0,Laax-Flims-Falera,October - April,68,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1918.0,0.0,October,April
+160,True,Europe,France,2750.0,1650.0,Vars-Risoul-La Forêt Blanche,December - April,39,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1100.0,0.0,December,April
+161,True,Europe,France,1608.0,1500.0,Kicking Horse,December - April,39,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,108.0,0.0,December,April
+162,True,Europe,France,2550.0,1250.0,Le Grand Domaine-Valmorel-Doucy-Celliers-St François Longchamp,December - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1300.0,0.0,December,April
+163,True,Europe,France,2594.0,1430.0,Galibier Thabor-Valmeinier-Valloire,December - April,39,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1164.0,0.0,December,April
+164,True,Europe,Austria,2500.0,580.0,Zillertal Arena-Zell am Ziller-Gerlos-Königsleiten-Hochkrimml,December - April,52,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1920.0,0.0,December,April
+165,True,Europe,Spain,2531.0,1616.0,La Molina-Masella-Alp2500,November - April,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,ESP,915.0,0.0,November,April
+166,True,America,Canada,2637.0,1646.0,Lake Louise,November - May,66,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,991.0,0.0,November,May
+167,True,Europe,France,1600.0,1150.0,Auron-Saint-Etienne-de-Tinée-,December - April,34,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,450.0,0.0,December,April
+168,True,America,USA,2712.0,2101.0,Powder Mountain,November - April,67,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,611.0,0.0,November,April
+169,True,America,USA,3651.0,2835.0,Keystone,November - April,120,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,816.0,0.0,November,April
+170,True,Europe,Italy,2550.0,1324.0,Alta Badia,December - April,52,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1226.0,0.0,December,April
+171,True,America,USA,1285.0,355.0,Killington,November - May,90,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,930.0,0.0,November,May
+172,True,America,USA,3767.0,2926.0,Copper Mountain,November - April,89,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,841.0,0.0,November,April
+173,True,Europe,France,2477.0,1040.0,La Clusaz-Manigod,December - April,37,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1437.0,0.0,December,April
+174,True,Europe,France,2050.0,1050.0,Espace Villard Corrençon-Villard-de-Lans-Corrençon-en-Vercors,December - April,36,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1000.0,0.0,December,April
+175,True,Europe,France,2800.0,1300.0,Val Cenis-Lanslevillard-Lanslebourg-Termignon,December - April,36,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1500.0,0.0,December,April
+176,True,Europe,France,2603.0,1800.0,Isola 2000,December - April,34,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,803.0,0.0,December,April
+177,True,Europe,Switzerland,2310.0,1201.0,Obersaxen-Mundaun-Val Lumnezia,December - April,51,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1109.0,0.0,December,April
+178,True,Europe,France,2400.0,1350.0,Les 7 Laux-Prapoutel-Le Pleynet-Pipay,December - April,36,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1050.0,0.0,December,April
+179,True,Europe,Switzerland,3303.0,1797.0,Corvatsch-Furtschellas,November - May,69,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1506.0,0.0,November,May
+180,True,America,USA,1286.0,426.0,Sugarloaf,November - April,81,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,860.0,0.0,November,April
+181,True,America,Canada,1915.0,1155.0,Silver Star,November - April,62,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,760.0,0.0,November,April
+182,True,America,USA,3795.0,2805.0,Taos,November - April,84,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,990.0,0.0,November,April
+183,True,Europe,Austria,2002.0,600.0,Nassfeld-Hermagor,December - April,46,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1402.0,0.0,December,April
+184,True,America,Canada,2730.0,1660.0,Sunshine Village,November - May,66,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,1070.0,0.0,November,May
+185,True,Europe,Italy,807.0,803.0,Mondolè Ski-Artesina-Frabosa Soprana-Prato Nevoso,depending on snow conditions - depending on snow conditions,33,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,4.0,0.0,depending on snow conditions,depending on snow conditions
+186,True,Europe,Switzerland,1845.0,759.0,Aletsch Arena-Riederalp-Bettmeralp-Fiesch Eggishorn,December - April,53,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1086.0,0.0,December,April
+187,True,Europe,Austria,2055.0,1087.0,Bad Kleinkirchheim-St. Oswald,December - April,47,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,968.0,0.0,December,April
+188,True,America,USA,3353.0,2365.0,Snowbird,November - May,99,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,988.0,0.0,November,May
+189,True,Europe,Italy,2694.0,1312.0,Bardonecchia,December - April,36,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1382.0,0.0,December,April
+190,True,Europe,France,1600.0,812.0,Saint-Lary-Soulan,December - April,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,788.0,0.0,December,April
+191,True,Europe,France,2725.0,1850.0,Orcières Merlette 1850,December - April,34,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,875.0,0.0,December,April
+192,True,Europe,France,2450.0,1450.0,Dévoluy-Superdévoluy-La Joue du Loup,December - April,36,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1000.0,0.0,December,April
+193,True,Europe,France,2500.0,1250.0,Grand Tourmalet-Pic du Midi-La Mongie-Barèges,November - April,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1250.0,0.0,November,April
+194,True,America,USA,2957.0,2407.0,Mt. Rose,November - April,93,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,550.0,0.0,November,April
+195,True,Rest of the world,Australia,1790.0,1390.0,Mt. Buller,May - October,87,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUS,400.0,0.0,May,October
+196,True,America,USA,1525.0,1070.0,Mt. Baker,November - May,50,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,455.0,0.0,November,May
+197,True,America,USA,2632.0,2083.0,Alpine Meadows,November - April,102,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,549.0,0.0,November,April
+198,True,America,USA,2917.0,2003.0,Deer Valley,December - April,109,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,914.0,0.0,December,April
+199,True,Rest of the world,Australia,1605.0,1125.0,Perisher,June - October,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUS,480.0,0.0,June,October
+200,True,America,USA,3628.0,3139.0,Wolf Creek,November - April,56,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,489.0,0.0,November,April
+201,True,America,USA,2078.0,1392.0,Wenatchee-Mission Ridge,November - April,54,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,686.0,0.0,November,April
+202,True,America,USA,2763.0,1737.0,Mt. Bachelor,November - May,79,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,1026.0,0.0,November,May
+203,True,America,USA,2624.0,1929.0,Northstar California Resort,November - April,120,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,695.0,0.0,November,April
+204,True,Europe,Switzerland,2844.0,810.0,Parsenn (Davos Klosters),November - April,61,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,2034.0,0.0,November,April
+205,True,America,USA,1950.0,1206.0,Schweitzer Mountain Resort,November - April,66,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,744.0,0.0,November,April
+206,True,America,USA,3060.0,2001.0,Heavenly,November - April,120,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,1059.0,0.0,November,April
+207,True,America,Canada,2273.0,1410.0,Castle Mountain,December - April,50,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,863.0,0.0,December,April
+208,True,Europe,Austria,1130.0,900.0,Oberau (Wildschönau),December - March,30,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,230.0,0.0,December,March
+209,True,America,USA,3871.0,3245.0,Loveland,October - May,61,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,626.0,0.0,October,May
+210,True,America,USA,1181.0,600.0,Stratton,November - April,90,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,581.0,0.0,November,April
+211,True,Rest of the world,Australia,1780.0,1500.0,Falls Creek,June - September,87,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUS,280.0,0.0,June,September
+212,True,America,USA,2788.0,1752.0,Bald Mountain-Sun Valley,December - April,107,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,1036.0,0.0,December,April
+213,True,Europe,Sweden,1274.0,380.0,Åre,November - May,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,SWE,894.0,0.0,November,May
+214,True,America,USA,2078.0,1361.0,Whitefish Mountain Resort,December - April,65,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,717.0,0.0,December,April
+215,True,Europe,Italy,2141.0,1309.0,Alto Sangro-Roccaraso-Rivisondoli,December - April,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,832.0,0.0,December,April
+216,True,Europe,France,2250.0,1400.0,Chamrousse,December - April,34,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,850.0,0.0,December,April
+217,True,Europe,France,2020.0,1412.0,Valberg-Beuil les Launes,December - April,32,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,608.0,0.0,December,April
+218,True,America,USA,2225.0,1378.0,Mt. Hood Meadows,November - April,76,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,847.0,0.0,November,April
+219,True,America,USA,2555.0,2098.0,Sugar Bowl,November - April,98,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,457.0,0.0,November,April
+220,True,America,USA,3369.0,2424.0,Mammoth Mountain,November - June,114,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,945.0,0.0,November,June
+221,True,America,USA,3815.0,2659.0,Telluride,November - April,110,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,1156.0,0.0,November,April
+222,True,Europe,Switzerland,1260.0,1072.0,Adelboden-Lenk-Chuenisbärgli-Silleren-Hahnenmoos-Metsch,December - April,55,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,188.0,0.0,December,April
+223,True,Europe,Switzerland,2011.0,948.0,Rinderberg-Saanerslochgrat-Horneggli-Zweisimmen-Saanenmöser-Schönried-St. Stephan,December - April,54,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1063.0,0.0,December,April
+224,True,America,USA,1240.0,452.0,Sugarbush,November - April,83,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,788.0,0.0,November,April
+225,True,Europe,Austria,2007.0,1079.0,Graukogel-Bad Gastein,December - March,36,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,928.0,0.0,December,March
+226,True,America,Canada,2410.0,1698.0,Marmot Basin-Jasper,November - April,60,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,712.0,0.0,November,April
+227,True,Europe,France,1835.0,1113.0,Les Portes du Mont-Blanc-Combloux-Megève le Jaillet-La Giettaz,December - April,35,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,722.0,0.0,December,April
+228,True,America,USA,3299.0,2680.0,Purgatory-Durango,November - April,76,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,619.0,0.0,November,April
+229,True,Europe,France,2100.0,1000.0,Le Grand Bornand,December - April,37,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1100.0,0.0,December,April
+230,True,America,USA,957.0,250.0,Sunday River,October - April,85,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,707.0,0.0,October,April
+231,True,Europe,Austria,2378.0,600.0,Kaltenbach-Hochzillertal-Hochfügen-SKi-optimal-,November - April,52,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1778.0,0.0,November,April
+232,True,Rest of the world,Japan,2307.0,1335.0,Shigakogen Mountain Resort,December - May,39,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,972.0,0.0,December,May
+233,True,Europe,Switzerland,2900.0,1570.0,Grimentz-Zinal,December - April,51,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1330.0,0.0,December,April
+234,True,America,Canada,1982.0,1230.0,Kimberley,December - April,49,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,752.0,0.0,December,April
+235,True,Europe,Italy,2100.0,1000.0,Civetta-Alleghe-Selva di Cadore-Palafavera-Zoldo,December - April,43,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1100.0,0.0,December,April
+236,True,Europe,France,1400.0,720.0,Ax les Thermes,December - April,37,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,680.0,0.0,December,April
+237,True,Rest of the world,Lebanon,2465.0,1850.0,Mzaar Kfardebian,no report,51,https://ski-resort-stats.com/beta-project,,,,,,,,,,LBN,615.0,0.0,,
+238,True,America,USA,3005.0,2182.0,Yellowstone Club,November - April,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,823.0,0.0,November,April
+239,True,Europe,Austria,2050.0,690.0,Damüls Mellau,December - April,49,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1360.0,0.0,December,April
+240,True,America,Canada,875.0,230.0,Mont Tremblant,November - April,60,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,645.0,0.0,November,April
+241,True,America,USA,1112.0,314.0,Smugglers' Notch,November - April,65,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,798.0,0.0,November,April
+242,True,Europe,Southern Russia,2320.0,940.0,Rosa Khutor,December - April,22,https://ski-resort-stats.com/beta-project,,,,,,,,,,RUS,1380.0,0.0,December,April
+243,True,Europe,Austria,2000.0,760.0,Zell am See,December - April,50,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1240.0,0.0,December,April
+244,True,Europe,Spain,2621.0,1505.0,Cerler,December - April,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,ESP,1116.0,0.0,December,April
+245,True,America,USA,1175.0,563.0,Jay Peak,no report,70,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,612.0,0.0,,
+246,True,Europe,Italy,2200.0,1130.0,Three Peaks Dolomites-Helm-Stiergarten-Rotwand-Kreuzbergpass,November - April,51,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1070.0,0.0,November,April
+247,True,Europe,France,2677.0,1407.0,Puy St. Vincent,December - April,34,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1270.0,0.0,December,April
+248,True,America,USA,3256.0,2591.0,Angel Fire,December - March,62,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,665.0,0.0,December,March
+249,True,Europe,Italy,1850.0,1200.0,Folgaria-Fiorentini,December - April,40,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,650.0,0.0,December,April
+250,True,Europe,Switzerland,3020.0,1000.0,Titlis-Engelberg,October - May,57,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,2020.0,0.0,October,May
+251,True,Europe,Norway,1100.0,415.0,Trysil,October - May,46,https://ski-resort-stats.com/beta-project,,,,,,,,,,NOR,685.0,0.0,October,May
+252,True,Europe,Austria,2850.0,1400.0,Nauders am Reschenpass-Bergkastel,December - April,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1450.0,0.0,December,April
+253,True,America,USA,2682.0,1860.0,Bridger Bowl-Bozeman,December - April,49,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,822.0,0.0,December,April
+254,True,America,USA,3328.0,2926.0,Brian Head,November - April,59,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,402.0,0.0,November,April
+255,True,Europe,Austria,2033.0,850.0,Grossarltal-Dorfgastein,December - April,50,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1183.0,0.0,December,April
+256,True,Rest of the world,Australia,2037.0,1365.0,Thredbo,June - September,84,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUS,672.0,0.0,June,September
+257,True,America,USA,1116.0,390.0,Stowe,November - April,106,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,726.0,0.0,November,April
+258,True,Europe,Austria,2220.0,1066.0,Katschberg,November - April,46,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1154.0,0.0,November,April
+259,True,Europe,France,2737.0,1550.0,Valfréjus,December - April,29,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1187.0,0.0,December,April
+260,True,Europe,Switzerland,2713.0,1200.0,Savognin,December - April,50,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1513.0,0.0,December,April
+261,True,Europe,Switzerland,2785.0,1250.0,Scuol-Motta Naluns,December - April,50,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1535.0,0.0,December,April
+262,True,America,USA,1019.0,348.0,Okemo,November - April,86,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,671.0,0.0,November,April
+263,True,America,Canada,800.0,175.0,Mont-Sainte-Anne-Beaupré,November - April,52,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,625.0,0.0,November,April
+264,True,America,USA,1760.0,1195.0,49 Degrees North Mountain Resort,November - April,50,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,565.0,0.0,November,April
+265,True,Europe,Italy,2513.0,1190.0,Passo San Pellegrino-Falcade,November - April,47,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1323.0,0.0,November,April
+266,True,America,USA,2590.0,2011.0,Bear Valley,December - April,67,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,579.0,0.0,December,April
+267,True,America,Canada,2180.0,1575.0,Apex Resort,December - April,52,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,605.0,0.0,December,April
+268,True,America,USA,3200.0,2668.0,Brighton,November - April,67,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,532.0,0.0,November,April
+269,True,Europe,France,2560.0,1420.0,Piau Engaly,November - April,37,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1140.0,0.0,November,April
+270,True,Europe,Switzerland,665.0,425.0,Flumserberg,November - April,51,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,240.0,0.0,November,April
+271,True,Europe,France,2450.0,1400.0,Super Sauze,December - April,30,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1050.0,0.0,December,April
+272,True,Europe,Ukraine,1372.0,890.0,Bukovel,November - May,32,https://ski-resort-stats.com/beta-project,,,,,,,,,,UKR,482.0,0.0,November,May
+273,True,Europe,France,2750.0,1350.0,La Norma,December - April,29,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1400.0,0.0,December,April
+274,True,America,USA,1510.0,1120.0,Mt. Hood Skibowl,November - April,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,390.0,0.0,November,April
+275,True,America,USA,2987.0,2377.0,Kirkwood,November - April,85,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,610.0,0.0,November,April
+276,True,America,USA,2870.0,2138.0,Red Lodge Mountain,November - April,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,732.0,0.0,November,April
+277,True,America,USA,3000.0,2434.0,Solitude,November - April,71,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,566.0,0.0,November,April
+278,True,Europe,Andorra,1550.0,1230.0,Pal-Arinsal-La Massana-Vallnord-,December - April,37,https://ski-resort-stats.com/beta-project,,,,,,,,,,AND,320.0,0.0,December,April
+279,True,Europe,Italy,2478.0,1602.0,Arabba,December - April,49,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,876.0,0.0,December,April
+280,True,Europe,Austria,2150.0,820.0,Wildkogel-Neukirchen-Bramberg,December - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1330.0,0.0,December,April
+281,True,America,USA,840.0,70.0,Alyeska Resort-Girdwood,November - April,68,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,770.0,0.0,November,April
+282,True,Europe,Austria,3250.0,1500.0,Hintertux Glacier,Year-round,52,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1750.0,0.0,,
+283,True,Europe,Switzerland,2833.0,1227.0,Disentis 3000,December - April,49,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1606.0,0.0,December,April
+284,True,Europe,Switzerland,3118.0,1322.0,Belalp-Blatten,December - April,49,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1796.0,0.0,December,April
+285,True,Europe,Italy,2357.0,1404.0,San Martino di Castrozza,November - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,953.0,0.0,November,April
+286,True,Europe,Switzerland,1055.0,600.0,Meiringen-Hasliberg,December - April,50,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,455.0,0.0,December,April
+287,True,Europe,Switzerland,2262.0,900.0,Toggenburg-Wildhaus-Unterwasser-Alt St. Johann,December - April,52,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1362.0,0.0,December,April
+288,True,Europe,Italy,1669.0,1000.0,Alpe di Siusi-Seiser Alm-,December - April,54,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,669.0,0.0,December,April
+289,True,Europe,France,1850.0,1160.0,Le Lioran,December - April,31,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,690.0,0.0,December,April
+290,True,Europe,Switzerland,3025.0,1655.0,Saint Luc-Chandolin-Anniviers-,December - April,47,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1370.0,0.0,December,April
+291,True,Europe,France,2520.0,1600.0,Les Karellis,December - April,27,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,920.0,0.0,December,April
+292,True,Europe,France,2400.0,1600.0,Peyragudes,December - April,40,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,800.0,0.0,December,April
+293,True,Europe,Switzerland,2205.0,1250.0,Leysin,December - April,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,955.0,0.0,December,April
+294,True,Rest of the world,Georgia,3279.0,1990.0,Gudauri,December - April,14,https://ski-resort-stats.com/beta-project,,,,,,,,,,GEO,1289.0,0.0,December,April
+295,True,America,USA,1095.0,585.0,Mount Snow,November - April,81,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,510.0,0.0,November,April
+296,True,America,Canada,1588.0,1083.0,Mount Washington,December - April,64,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,505.0,0.0,December,April
+297,True,Europe,Italy,3016.0,1121.0,Ponte di Legno-Passo Tonale-Presena Glacier-Temù-Pontedilegno-Tonale-,October - May,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1895.0,0.0,October,May
+298,True,America,USA,1097.0,304.0,Gore Mountain,November - April,71,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,793.0,0.0,November,April
+299,True,Europe,Switzerland,2151.0,992.0,Eggli-La Videmanette-Gstaad-Saanen-Rougemont,December - March,54,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1159.0,0.0,December,March
+300,True,Europe,Switzerland,2420.0,1500.0,Anzère,December - April,46,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,920.0,0.0,December,April
+301,True,Europe,Bulgaria,2560.0,1300.0,Borovets,December - April,28,https://ski-resort-stats.com/beta-project,,,,,,,,,,BGR,1260.0,0.0,December,April
+302,True,Europe,France,2213.0,1650.0,Font-Romeu-Bolquère Pyrénées 2000,December - April,38,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,563.0,0.0,December,April
+303,True,Europe,Norway,1300.0,585.0,Oppdal,no report,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,NOR,715.0,0.0,,
+304,True,Europe,France,2525.0,1030.0,Brévent-Flégère-Chamonix-,December - April,51,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1495.0,0.0,December,April
+305,True,America,USA,945.0,487.0,Bretton Woods,November - April,76,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,458.0,0.0,November,April
+306,True,Europe,France,1000.0,584.0,Les Houches-Saint-Gervais-Prarion-Bellevue-Chamonix-,December - April,43,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,416.0,0.0,December,April
+307,True,Europe,Finland,718.0,200.0,Ylläs,November - May,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,FIN,518.0,0.0,November,May
+308,True,Europe,Italy,2428.0,1320.0,Belvedere-Col Rodella-Ciampac-Buffaure-Canazei-Campitello-Alba-Pozza di Fassa,December - April,48,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1108.0,0.0,December,April
+309,True,America,Canada,2225.0,512.0,Revelstoke Mountain Resort,December - April,64,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,1713.0,0.0,December,April
+310,True,Europe,Switzerland,3111.0,1419.0,Lauchernalp-Lötschental,depending on snow conditions - April,48,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1692.0,0.0,depending on snow conditions,April
+311,True,Europe,Austria,2989.0,1301.0,Grossglockner Heiligenblut,December - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1688.0,0.0,December,April
+312,True,Europe,Austria,2000.0,904.0,Brandnertal-Brand-Bürserberg,December - April,46,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1096.0,0.0,December,April
+313,True,Europe,France,2184.0,1367.0,Alpe du Grand-Serre-La Morte,December - March,27,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,817.0,0.0,December,March
+314,True,Europe,France,2376.0,1600.0,Les Angles,November - April,38,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,776.0,0.0,November,April
+315,True,Europe,Serbia,2017.0,1057.0,Kopaonik,December - April,30,https://ski-resort-stats.com/beta-project,,,,,,,,,,SRB,960.0,0.0,December,April
+316,True,Europe,France,2750.0,1500.0,Aussois,December - April,29,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1250.0,0.0,December,April
+317,True,America,USA,3475.0,2926.0,Apache,no report,48,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,549.0,0.0,,
+318,True,Rest of the world,Turkey,3360.0,2100.0,Erciyes-Kayseri,December - April,17,https://ski-resort-stats.com/beta-project,,,,,,,,,,TUR,1260.0,0.0,December,April
+319,True,America,USA,975.0,487.0,Hunter Mountain,no report,68,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,488.0,0.0,,
+320,True,Europe,Switzerland,2501.0,1050.0,First-Grindelwald,December - March,55,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1451.0,0.0,December,March
+321,True,Europe,Switzerland,2350.0,1110.0,Sörenberg-Rothorn-Dorf,December - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1240.0,0.0,December,April
+322,True,Europe,Italy,2060.0,1046.0,Riserva Bianca-Limone Piemonte,December - April,34,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1014.0,0.0,December,April
+323,True,America,USA,3292.0,2804.0,Eldora Mountain,November - April,80,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,488.0,0.0,November,April
+324,True,America,USA,2371.0,2142.0,Donner Ski Ranch,December - April,59,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,229.0,0.0,December,April
+325,True,America,Argentina,3430.0,2200.0,Las Leñas,June - September,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,ARG,1230.0,0.0,June,September
+326,True,Rest of the world,Japan,1831.0,760.0,Happo-One-Hakuba,December - May,40,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,1071.0,0.0,December,May
+327,True,Europe,Italy,1354.0,772.0,Gitschberg Jochtal,December - April,46,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,582.0,0.0,December,April
+328,True,Europe,Switzerland,2970.0,796.0,Schilthorn-Mürren-Lauterbrunnen,December - April,55,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,2174.0,0.0,December,April
+329,True,Europe,Austria,1620.0,780.0,Dachstein West,December - April,42,https://ski-resort-stats.com/dachstein-west,15.0,33.0,3.0,25,8.0,3.0,True,True,163.0,AUT,840.0,51.0,December,April
+330,True,America,Canada,1440.0,824.0,Cypress Mountain,November - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,616.0,0.0,November,April
+331,True,Europe,Italy,1540.0,570.0,Pila,November - April,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,970.0,0.0,November,April
+332,True,Europe,Switzerland,2418.0,1110.0,Brigels-Waltensburg-Andiast,December - March,49,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1308.0,0.0,December,March
+333,True,Europe,Italy,2270.0,1162.0,Aprica,November - May,38,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1108.0,0.0,November,May
+334,True,Europe,Italy,3012.0,1225.0,Bormio-Cima Bianca,November - April,40,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1787.0,0.0,November,April
+335,True,Europe,Switzerland,2300.0,1500.0,Sedrun-Oberalp,November - April,53,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,800.0,0.0,November,April
+336,True,Europe,Austria,2400.0,1095.0,Grosseck-Speiereck-Mauterndorf-St. Michael,December - April,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1305.0,0.0,December,April
+337,True,Europe,France,1610.0,923.0,Hirmentaz-Les Habères-Bellevaux-Habère-Poche,December - March,24,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,687.0,0.0,December,March
+338,True,Europe,Italy,2700.0,1335.0,Pragelato,December - April,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1365.0,0.0,December,April
+339,True,Europe,France,2471.0,1600.0,Porté Puymorens,September - April,30,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,871.0,0.0,September,April
+340,True,Europe,Switzerland,1070.0,573.0,Mythenregion,December - March,39,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,497.0,0.0,December,March
+341,True,Europe,Spain,2236.0,1514.0,Candanchú,December - April,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,ESP,722.0,0.0,December,April
+342,True,Europe,Germany,2000.0,700.0,Zugspitze,depending on snow conditions - May,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,1300.0,0.0,depending on snow conditions,May
+343,True,Rest of the world,Japan,1661.0,780.0,Zao Onsen,December - May,39,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,881.0,0.0,December,May
+344,True,Europe,Sweden,887.0,579.0,Lindvallen-Högfjället-Sälen-,November - May,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,SWE,308.0,0.0,November,May
+345,True,Europe,Slovakia,2004.0,943.0,Jasná Nízke Tatry-Chopok,December - May,39,https://ski-resort-stats.com/beta-project,,,,,,,,,,SVK,1061.0,0.0,December,May
+346,True,Rest of the world,Japan,1845.0,620.0,Mitsumata-Kagura-Tashiro-Mt. Naeba-,November - May,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,1225.0,0.0,November,May
+347,True,Europe,Sweden,872.0,572.0,Tandådalen-Hundfjället-Sälen-,November - May,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,SWE,300.0,0.0,November,May
+348,True,Rest of the world,Japan,1328.0,500.0,Appi Kogen,no report,43,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,828.0,0.0,,
+349,True,Europe,Russia,1270.0,670.0,Sheregesh-Kemerovo,no report,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,RUS,600.0,0.0,,
+350,True,Europe,Southern Russia,949.0,547.0,Gazprom Mountain Resort-Laura-– Esto-Sadok-Sotschi-,December - April,32,https://ski-resort-stats.com/beta-project,,,,,,,,,,RUS,402.0,0.0,December,April
+351,True,Rest of the world,Japan,994.0,400.0,Rusutsu,November - April,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,594.0,0.0,November,April
+352,True,Europe,Austria,1860.0,740.0,Steinplatte-Winklmoosalm-Waidring-Reit im Winkl,November - April,46,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1120.0,0.0,November,April
+353,True,Rest of the world,Turkey,1767.0,395.0,Uludağ-Bursa,no report,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,TUR,1372.0,0.0,,
+354,True,Europe,Switzerland,1315.0,439.0,Rigi,no report,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,876.0,0.0,,
+355,True,Europe,France,1420.0,1000.0,Métabief,no report,26,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,420.0,0.0,,
+356,True,Europe,Bulgaria,2290.0,726.0,Vitosha-Sofia,December - April,18,https://ski-resort-stats.com/beta-project,,,,,,,,,,BGR,1564.0,0.0,December,April
+357,True,Europe,Italy,1540.0,1050.0,Latemar-Obereggen-Pampeago-Predazzo,November - April,47,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,490.0,0.0,November,April
+358,True,Europe,Poland,1257.0,524.0,Szczyrk-Skrzyczne,December - April,20,https://ski-resort-stats.com/beta-project,,,,,,,,,,POL,733.0,0.0,December,April
+359,True,Europe,Slovenia,1327.0,325.0,Mariborsko Pohorje-Maribor,December - March,31,https://ski-resort-stats.com/beta-project,,,,,,,,,,SVN,1002.0,0.0,December,March
+360,True,America,Chile,3333.0,2380.0,El Colorado-Farellones,June - October,64,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHL,953.0,0.0,June,October
+361,True,Europe,France,1966.0,1240.0,Praz de Lys-Sommand-Taninges-Mieussy-,December - April,29,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,726.0,0.0,December,April
+362,True,Europe,Bosnia and Herzegovina,1889.0,920.0,Jahorina,depending on snow conditions - depending on snow conditions,20,https://ski-resort-stats.com/beta-project,,,,,,,,,,BIH,969.0,0.0,depending on snow conditions,depending on snow conditions
+363,True,Europe,France,1678.0,1137.0,Espace Dôle-La Dôle-Les Tuffes,December - March,27,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,541.0,0.0,December,March
+364,True,Rest of the world,Japan,1491.0,687.0,Myoko Akakura,no report,39,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,804.0,0.0,,
+365,True,Rest of the world,Japan,1789.0,900.0,Naeba-Mt. Naeba-,December - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,889.0,0.0,December,April
+366,True,Rest of the world,Japan,1650.0,565.0,Nozawa Onsen,November - April,37,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,1085.0,0.0,November,April
+367,True,Europe,Austria,2118.0,868.0,Kreischberg,December - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1250.0,0.0,December,April
+368,True,Europe,Germany,2050.0,732.0,Garmisch-Classic-Garmisch-Partenkirchen,December - April,43,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,1318.0,0.0,December,April
+369,True,Europe,France,3842.0,1035.0,Aiguille du Midi-Chamonix-,December - April,60,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,2807.0,0.0,December,April
+370,True,Europe,Italy,2337.0,1200.0,Carezza Ski,December - April,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1137.0,0.0,December,April
+371,True,Europe,Switzerland,510.0,490.0,Pizol-Bad Ragaz-Wangs,December - April,51,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,20.0,0.0,December,April
+372,True,Europe,France,1850.0,1300.0,SuperBesse-Puy de Sancy,December - April,32,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,550.0,0.0,December,April
+373,True,Europe,Sweden,830.0,443.0,Stöten,no report,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,SWE,387.0,0.0,,
+374,True,Rest of the world,Turkey,3176.0,2200.0,Palandöken-Ejder 3200 World Ski Center-,November - April,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,TUR,976.0,0.0,November,April
+375,True,Europe,Austria,1967.0,920.0,Fellhorn-Kanzelwand-Oberstdorf-Riezlern,December - April,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1047.0,0.0,December,April
+376,True,Europe,Sweden,890.0,588.0,Idre Fjäll,October - April,40,https://ski-resort-stats.com/beta-project,,,,,,,,,,SWE,302.0,0.0,October,April
+377,True,Europe,Austria,2422.0,933.0,Großglockner Resort Kals-Matrei,December - April,47,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1489.0,0.0,December,April
+378,True,Europe,Bulgaria,1926.0,1620.0,Pamporovo,December - April,28,https://ski-resort-stats.com/beta-project,,,,,,,,,,BGR,306.0,0.0,December,April
+379,True,Europe,Italy,1892.0,1240.0,Abetone-Val di Luce,December - April,30,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,652.0,0.0,December,April
+380,True,Europe,Austria,1000.0,520.0,Gerlitzen,December - April,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,480.0,0.0,December,April
+381,True,Europe,Italy,2125.0,1030.0,Paganella-Andalo,November - April,40,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1095.0,0.0,November,April
+382,True,Europe,Switzerland,2255.0,1080.0,Melchsee-Frutt-Kerns-,December - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1175.0,0.0,December,April
+383,True,Europe,Spain,1964.0,912.0,Vall de Núria,no report,30,https://ski-resort-stats.com/beta-project,,,,,,,,,,ESP,1052.0,0.0,,
+384,True,Europe,France,2300.0,1050.0,Arêches-Beaufort-,December - April,29,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1250.0,0.0,December,April
+385,True,Europe,Czech Republic,1235.0,702.0,Špindlerův Mlýn,December - April,34,https://ski-resort-stats.com/beta-project,,,,,,,,,,CZE,533.0,0.0,December,April
+386,True,Europe,Switzerland,1870.0,1445.0,Les Mosses-La Lécherette,December - April,31,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,425.0,0.0,December,April
+387,True,Rest of the world,Iran,3506.0,2530.0,Dizin,November - May,31,https://ski-resort-stats.com/beta-project,,,,,,,,,,IRN,976.0,0.0,November,May
+388,True,Rest of the world,Japan,1181.0,256.0,Gala Yuzawa-Ishiuchi Maruyama,December - May,35,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,925.0,0.0,December,May
+389,True,Rest of the world,South Korea,1438.0,700.0,YongPyong Resort,November - April,57,https://ski-resort-stats.com/beta-project,,,,,,,,,,KOR,738.0,0.0,November,April
+390,True,Europe,Italy,1976.0,900.0,Cimone-Montecreto-Sestola-Le Polle,November - April,35,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1076.0,0.0,November,April
+391,True,Europe,France,1440.0,635.0,Luchon Superbagnères,December - April,34,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,805.0,0.0,December,April
+392,True,Rest of the world,South Korea,1367.0,690.0,High1 Resort,December - April,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,KOR,677.0,0.0,December,April
+393,True,America,Chile,3574.0,2653.0,La Parva,June - October,60,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHL,921.0,0.0,June,October
+394,True,Europe,France,900.0,640.0,Lélex-Crozet,December - March,28,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,260.0,0.0,December,March
+395,True,Europe,Southern Russia,2228.0,535.0,Alpika Service,December - April,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,RUS,1693.0,0.0,December,April
+396,True,Europe,Romania,880.0,834.0,Sinaia,no report,32,https://ski-resort-stats.com/beta-project,,,,,,,,,,ROU,46.0,0.0,,
+397,True,Rest of the world,Japan,1202.0,245.0,Furano,November - May,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,957.0,0.0,November,May
+398,True,Europe,France,2450.0,1350.0,Gourette-Eaux Bonnes-,December - April,38,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1100.0,0.0,December,April
+399,True,America,USA,1340.0,371.0,Whiteface-Lake Placid,November - April,79,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,969.0,0.0,November,April
+400,True,Europe,Austria,2175.0,940.0,Rauriser Hochalmbahnen-Rauris,December - April,43,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1235.0,0.0,December,April
+401,True,Europe,Switzerland,1850.0,1035.0,Hoch-Ybrig-Unteriberg-Oberiberg,December - April,46,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,815.0,0.0,December,April
+402,True,Europe,Italy,1609.0,648.0,Meran 2000,December - March,39,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,961.0,0.0,December,March
+403,True,Europe,Switzerland,2344.0,1444.0,Nätschen-Andermatt,December - March,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,900.0,0.0,December,March
+404,True,Rest of the world,Japan,1239.0,520.0,Hoshino Resorts Tomamu,no report,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,719.0,0.0,,
+405,True,Europe,France,2200.0,1500.0,Albiez-Montrond,December - April,25,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,700.0,0.0,December,April
+406,True,Europe,Italy,1752.0,754.0,Tarvisio-Monte Lussari,December - April,35,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,998.0,0.0,December,April
+407,True,Europe,Greece,2300.0,1600.0,Mount Parnassos-Fterolakka-Kellaria,no report,30,https://ski-resort-stats.com/beta-project,,,,,,,,,,GRC,700.0,0.0,,
+408,True,Europe,Austria,2108.0,1222.0,Moelltal Glacier-Mölltaler Gletscher-,June - May,47,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,886.0,0.0,June,May
+409,True,Europe,Germany,1723.0,791.0,Wendelstein-Brannenburg-Osterhofen,December - March,35,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,932.0,0.0,December,March
+410,True,Europe,United Kingdom,900.0,650.0,Glenshee,December - April,33,https://ski-resort-stats.com/beta-project,,,,,,,,,,GBR,250.0,0.0,December,April
+411,True,Europe,Italy,3250.0,1900.0,Sulden am Ortler-Solda all'Ortles-,November - May,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,1350.0,0.0,November,May
+412,True,America,USA,1180.0,800.0,The Summit at Snoqualmie,December - April,67,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,380.0,0.0,December,April
+413,True,Europe,Romania,1799.0,1021.0,Poiana Brașov,December - April,32,https://ski-resort-stats.com/beta-project,,,,,,,,,,ROU,778.0,0.0,December,April
+414,True,Europe,Austria,2000.0,600.0,Hinterstoder-Höss,December - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1400.0,0.0,December,April
+415,True,Europe,France,2500.0,1350.0,St. Jean Montclar,December - April,28,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1150.0,0.0,December,April
+416,True,Europe,Spain,2310.0,1745.0,Port del Comte,no report,33,https://ski-resort-stats.com/beta-project,,,,,,,,,,ESP,565.0,0.0,,
+417,True,Europe,Sweden,1038.0,743.0,Tänndalen,no report,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,SWE,295.0,0.0,,
+418,True,Europe,Germany,1448.0,888.0,Feldberg-Seebuck-Grafenmatt-Fahl,December - April,35,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,560.0,0.0,December,April
+419,True,Europe,Austria,2685.0,1740.0,Pitztal Glacier-Pitztaler Gletscher-,September - May,48,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,945.0,0.0,September,May
+420,True,Rest of the world,Japan,1180.0,570.0,Kiroro,no report,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,JPN,610.0,0.0,,
+421,True,Europe,Austria,896.0,812.0,Tauplitz-Bad Mitterndorf,December - April,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,84.0,0.0,December,April
+422,True,Europe,Austria,1410.0,820.0,Hochoetz-Oetz,December - April,37,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,590.0,0.0,December,April
+423,True,Europe,Austria,2064.0,1230.0,Rosshütte-Seefeld,December - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,834.0,0.0,December,April
+424,True,Europe,Liechtenstein,2000.0,1600.0,Malbun,December - April,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,LIE,400.0,0.0,December,April
+425,True,Europe,Czech Republic,1202.0,854.0,Špičák,December - April,23,https://ski-resort-stats.com/beta-project,,,,,,,,,,CZE,348.0,0.0,December,April
+426,True,Europe,Austria,1820.0,950.0,Riesneralm-Donnersbachwald,December - April,40,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,870.0,0.0,December,April
+427,True,Europe,Austria,1743.0,1067.0,Berwang-Bichlbach-Rinnen,December - April,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,676.0,0.0,December,April
+428,True,Europe,Austria,2304.0,950.0,Glungezer-Tulfes,December - April,30,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1354.0,0.0,December,April
+429,True,Europe,Austria,2115.0,1497.0,Fanningberg,December - April,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,618.0,0.0,December,April
+430,True,America,USA,2347.0,1490.0,Tamarack Resort,December - April,59,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,857.0,0.0,December,April
+431,True,Europe,Austria,2205.0,1400.0,Turracher Höhe,November - May,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,805.0,0.0,November,May
+432,True,Europe,Lithuania,163.0,97.0,Indoor ski area Snow Arena-Druskininkai,Year-round,29,https://ski-resort-stats.com/beta-project,,,,,,,,,,LTU,66.0,0.0,,
+433,True,Europe,Austria,1715.0,655.0,Niedere-Andelsbuch-Bezau,December - March,31,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1060.0,0.0,December,March
+434,True,America,USA,1312.0,1216.0,Summit Ski Area at Mt. Hood,December - April,26,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,96.0,0.0,December,April
+435,True,Europe,Austria,1870.0,810.0,Wurzeralm-Spital am Pyhrn,December - April,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1060.0,0.0,December,April
+436,True,Europe,Austria,1608.0,1100.0,Präbichl-Vordernberg,December - April,37,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,508.0,0.0,December,April
+437,True,Europe,Italy,2502.0,1601.0,Pfelders-Moos in Passeier-,December - April,33,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,901.0,0.0,December,April
+438,True,Europe,Germany,1139.0,841.0,Mitterdorf-Almberg-– Mitterfirmiansreut,December - March,23,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,298.0,0.0,December,March
+439,True,Europe,Italy,1650.0,1150.0,Lavarone,December - April,36,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,500.0,0.0,December,April
+440,True,America,USA,960.0,440.0,Bolton Valley,December - April,63,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,520.0,0.0,December,April
+441,True,Europe,Germany,1116.0,835.0,Geißkopf-Bischofsmais,December - March,24,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,281.0,0.0,December,March
+442,True,Europe,Slovakia,1361.0,914.0,Donovaly-Park Snow-,depending on snow conditions - depending on snow conditions,26,https://ski-resort-stats.com/beta-project,,,,,,,,,,SVK,447.0,0.0,depending on snow conditions,depending on snow conditions
+443,True,Europe,Slovenia,1480.0,540.0,Kobla-Bohinj,December - March,22,https://ski-resort-stats.com/beta-project,,,,,,,,,,SVN,940.0,0.0,December,March
+444,True,Europe,Germany,122.0,90.0,Indoor ski area Snow Dome Bispingen,Year-round,37,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,32.0,0.0,,
+445,True,Europe,Germany,1563.0,850.0,Sudelfeld-Bayrischzell,depending on snow conditions - depending on snow conditions,33,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,713.0,0.0,depending on snow conditions,depending on snow conditions
+446,True,Europe,Germany,1700.0,900.0,Grüntenlifte-Kranzegg-Rettenberg-,December - April,31,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,800.0,0.0,December,April
+447,True,Europe,Austria,1870.0,1010.0,Grebenzen-St. Lambrecht,December - March,34,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,860.0,0.0,December,March
+448,True,Europe,Austria,780.0,640.0,Kirchdorf,December - March,30,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,140.0,0.0,December,March
+449,True,Europe,Germany,2224.0,828.0,Nebelhorn-Oberstdorf,December - May,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,1396.0,0.0,December,May
+450,True,Europe,Austria,2222.0,1600.0,Lachtal,December - April,41,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,622.0,0.0,December,April
+451,True,Europe,Austria,1636.0,1035.0,Ramsau am Dachstein-Rittisberg,December - March,36,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,601.0,0.0,December,March
+452,True,Europe,Germany,745.0,650.0,Eibenstock,December - March,18,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,95.0,0.0,December,March
+453,True,Europe,Switzerland,2550.0,1480.0,Bürchen-Törbel-Moosalp,December - March,39,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1070.0,0.0,December,March
+454,True,Europe,France,2100.0,1100.0,Guzet,December - March,31,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1000.0,0.0,December,March
+455,True,America,USA,594.0,285.0,Montage Mountain Resort,December - March,53,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,309.0,0.0,December,March
+456,True,Europe,Austria,1325.0,1070.0,Schetteregg-Egg,November - March,32,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,255.0,0.0,November,March
+457,True,Europe,Germany,1215.0,911.0,Fichtelberg-Oberwiesenthal,December - April,26,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,304.0,0.0,December,April
+458,True,Europe,Switzerland,1600.0,1204.0,Bellwald,December - April,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,396.0,0.0,December,April
+459,True,Europe,Denmark,100.0,80.0,Dry slopes Dayz Søhøjlandets Skicenter,Year-round,36,https://ski-resort-stats.com/beta-project,,,,,,,,,,DNK,20.0,0.0,,
+460,True,Europe,Denmark,120.0,10.0,Indoor ski area Skidome Denmark – Randers (planned),no report,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,DNK,110.0,0.0,,
+461,True,Europe,Denmark,53.0,50.0,Dry slopes Indoorski – Rødovre,Year-round,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,DNK,3.0,0.0,,
+462,True,Europe,Denmark,23.0,20.0,Dry slopes Ski Arena – Aarhus,no report,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,DNK,3.0,0.0,,
+463,True,Europe,Denmark,0.0,0.0,Copenhagen (planned),no report,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,DNK,0.0,0.0,,
+464,True,Europe,Denmark,110.0,72.0,Østerlars (Bornholm),no report,18,https://ski-resort-stats.com/beta-project,,,,,,,,,,DNK,38.0,0.0,,
+465,True,Europe,Denmark,45.0,20.0,Hoch Hylkedal – Kolding,no report,15,https://ski-resort-stats.com/beta-project,,,,,,,,,,DNK,25.0,0.0,,
+466,True,Europe,Switzerland,1200.0,436.0,Klewenalp-Stockhütte-Beckenried-Emmetten,December - April,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,764.0,0.0,December,April
+467,True,Europe,Germany,760.0,620.0,Schöneck-Skiwelt-,December - March,20,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,140.0,0.0,December,March
+468,True,Europe,Poland,910.0,680.0,Białka Tatrzańska-Kotelnica-Kaniówka-Bania,December - April,23,https://ski-resort-stats.com/beta-project,,,,,,,,,,POL,230.0,0.0,December,April
+469,True,Europe,Netherlands,210.0,150.0,Indoor ski area SnowWorld Landgraaf,Year-round,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,NLD,60.0,0.0,,
+470,True,Europe,Slovakia,1840.0,1376.0,Štrbské Pleso,December - April,35,https://ski-resort-stats.com/beta-project,,,,,,,,,,SVK,464.0,0.0,December,April
+471,True,Europe,Austria,1567.0,750.0,Gaissau-Hintersee,depending on snow conditions - March,35,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,817.0,0.0,depending on snow conditions,March
+472,True,America,USA,2630.0,1999.0,Sandia Peak,no report,47,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,631.0,0.0,,
+473,True,Europe,Austria,857.0,545.0,Kellerjoch-Schwaz,depending on snow conditions - April,29,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,312.0,0.0,depending on snow conditions,April
+474,True,Europe,France,1785.0,1370.0,Aillons-Margériaz,no report,19,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,415.0,0.0,,
+475,True,Europe,Austria,1886.0,1540.0,Hochrindl-Sirnitz,December - March,32,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,346.0,0.0,December,March
+476,True,Europe,France,1350.0,872.0,La Bresse-Hohneck,December - depending on snow conditions,29,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,478.0,0.0,December,depending on snow conditions
+477,True,Europe,Germany,842.0,590.0,Silbersattel-Steinach,December - April,19,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,252.0,0.0,December,April
+478,True,Europe,Southern Russia,960.0,540.0,Gornaya Karusel,December - April,22,https://ski-resort-stats.com/beta-project,,,,,,,,,,RUS,420.0,0.0,December,April
+479,True,Europe,Austria,1230.0,980.0,Lammeralm-Langenwang,December - March,29,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,250.0,0.0,December,March
+480,True,Europe,Austria,2000.0,800.0,Kitzbüheler Horn,December - April,40,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,1200.0,0.0,December,April
+481,True,Europe,Norway,1060.0,450.0,Myrkdalen,November - May,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,NOR,610.0,0.0,November,May
+482,True,Rest of the world,Kazakhstan,2260.0,1626.0,Shymbulak-Chimbulak-,no report,24,https://ski-resort-stats.com/beta-project,,,,,,,,,,KAZ,634.0,0.0,,
+483,True,Europe,Austria,1770.0,850.0,Loser-Altaussee,December - April,40,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,920.0,0.0,December,April
+484,True,Europe,Austria,1800.0,950.0,Christlum-Achenkirch,December - April,44,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,850.0,0.0,December,April
+485,True,Europe,Germany,1700.0,1400.0,Grasgehren-Bolgengrat,November - April,25,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,300.0,0.0,November,April
+486,True,America,USA,2137.0,1341.0,Crystal Mountain-WA-,November - May,63,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,796.0,0.0,November,May
+487,True,Europe,Germany,1307.0,880.0,Götschen-Bischofswiesen,December - April,25,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,427.0,0.0,December,April
+488,True,Europe,Switzerland,2610.0,1411.0,Torrent-Leukerbad,December - April,46,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1199.0,0.0,December,April
+489,True,Europe,Austria,1612.0,862.0,Monte Popolo-Eben im Pongau,December - April,36,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,750.0,0.0,December,April
+490,True,Rest of the world,China,1375.0,457.0,Sun Mountain-Yabuli,November - April,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHN,918.0,0.0,November,April
+491,True,Europe,Italy,2250.0,1850.0,Jochgrimm-Passo Oclini-,December - April,17,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,400.0,0.0,December,April
+492,True,Europe,Italy,2340.0,1370.0,Alpe Lusia-Moena-Bellamonte,December - April,47,https://ski-resort-stats.com/beta-project,,,,,,,,,,ITA,970.0,0.0,December,April
+493,True,Europe,Germany,1417.0,710.0,Unternberg-Ruhpolding-,December - March,20,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,707.0,0.0,December,March
+494,True,Europe,Switzerland,3006.0,2091.0,Diavolezza-Lagalb,October - November December - May June - October,59,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,915.0,0.0,December,May
+495,True,Europe,Slovakia,1396.0,720.0,Kubínska hoľa,December - April,26,https://ski-resort-stats.com/beta-project,,,,,,,,,,SVK,676.0,0.0,December,April
+496,True,America,USA,1750.0,1170.0,Stevens Pass,December - April,63,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,580.0,0.0,December,April
+497,True,Europe,Norway,1148.0,800.0,Gålå,November - April,43,https://ski-resort-stats.com/beta-project,,,,,,,,,,NOR,348.0,0.0,November,April
+498,True,Europe,Norway,1039.0,185.0,Kvitfjell,October - May,45,https://ski-resort-stats.com/beta-project,,,,,,,,,,NOR,854.0,0.0,October,May
+499,True,Europe,France,2800.0,1750.0,Molines-en-Queyras-Saint-Véran,December - April,29,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,1050.0,0.0,December,April
+500,True,Europe,Slovakia,2190.0,888.0,Tatranská Lomnica,December - April,35,https://ski-resort-stats.com/beta-project,,,,,,,,,,SVK,1302.0,0.0,December,April
+501,True,Rest of the world,New Zealand,2046.0,1692.0,Mt. Dobson,July - October,51,https://ski-resort-stats.com/beta-project,,,,,,,,,,NZL,354.0,0.0,July,October
+502,True,Europe,Slovenia,1103.0,460.0,Kanin-Sella Nevea-Bovec,December - April,35,https://ski-resort-stats.com/beta-project,,,,,,,,,,SVN,643.0,0.0,December,April
+503,True,Europe,Germany,730.0,605.0,Postwiesen Skidorf-Neuastenberg,December - March,26,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,125.0,0.0,December,March
+504,True,Europe,Switzerland,1750.0,1050.0,Kaiseregg-Riggisalp-Schwarzsee,December - March,34,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,700.0,0.0,December,March
+505,True,Europe,France,1800.0,900.0,St. Pierre de Chartreuse-Le Planolet,December - April,21,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,900.0,0.0,December,April
+506,True,America,USA,930.0,300.0,Loon Mountain,November - April,73,https://ski-resort-stats.com/beta-project,,,,,,,,,,USA,630.0,0.0,November,April
+507,True,Europe,Germany,1559.0,1130.0,Oberjoch-Bad Hindelang-– Iseler,December - April,38,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,429.0,0.0,December,April
+508,True,Europe,Austria,1450.0,870.0,Mönichkirchen-Mariensee,depending on snow conditions - March,35,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,580.0,0.0,depending on snow conditions,March
+509,True,Europe,Switzerland,2864.0,1619.0,Grächen,December - April,48,https://ski-resort-stats.com/beta-project,,,,,,,,,,CHE,1245.0,0.0,December,April
+510,True,Europe,France,2700.0,1830.0,Puigmal,no report,0,https://ski-resort-stats.com/beta-project,,,,,,,,,,FRA,870.0,0.0,,
+511,True,Europe,Germany,1350.0,980.0,Kranzberg-Mittenwald,December - depending on snow conditions,29,https://ski-resort-stats.com/beta-project,,,,,,,,,,DEU,370.0,0.0,December,depending on snow conditions
+512,True,Europe,Austria,1530.0,1000.0,Wetterstein lifts-Wettersteinbahnen-– Ehrwald,December - March,43,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,530.0,0.0,December,March
+513,True,Europe,Austria,1774.0,777.0,Stuhleck-Spital am Semmering,depending on snow conditions - April,42,https://ski-resort-stats.com/beta-project,,,,,,,,,,AUT,997.0,0.0,depending on snow conditions,April
+514,True,America,Canada,806.0,36.0,Le Massif,December - April,51,https://ski-resort-stats.com/beta-project,,,,,,,,,,CAN,770.0,0.0,December,April
